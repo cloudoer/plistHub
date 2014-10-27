@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>assets</key>
+			<array>
+				<dict>
+					<key>kind</key>
+					<string>software-package</string>
+					<key>url</key>
+					<string>http://bcs.duapp.com/fordemo/pocexamdemo.ipa</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>full-size-image</string>
+					<key>needs-shine</key>
+					<false/>
+					<key>url</key>
+					<string>https://s2.mzstatic.com/us/r30/Purple6/v4/7c/e5/d5/7ce5d52b-5dad-3af1-082f-891e5d03145e/icon340x340.png</string>
+				</dict>
+			</array>
+			<key>metadata</key>
+			<dict>
+				<key>bundle-identifier</key>
+				<string>com.yjxtj.pocexam</string>
+				<key>bundle-version</key>
+				<string>1.1</string>
+				<key>kind</key>
+				<string>software</string>
+				<key>title</key>
+				<string>掌上体检</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
