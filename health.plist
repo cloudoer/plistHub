@@ -11,19 +11,19 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://7nj24i.com1.z0.glb.clouddn.com/coachT-fat.ipa</string>
+					<string>http://7nj24i.com1.z0.glb.clouddn.com/health.ipa</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.joy32812.coachT</string>
+				<string>com.joy32812.health</string>
 				<key>bundle-version</key>
 				<string>1.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>coachT</string>
+				<string>health</string>
 			</dict>
 		</dict>
 	</array>
