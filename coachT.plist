@@ -11,15 +11,15 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://7nj24i.com1.z0.glb.clouddn.com/CoachT__1.3.1_Release_1.3.1_20150714.ipa</string>
+					<string>https://dn-ikeepfit1.qbox.me/coachT_07_11.ipa</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.joy32812.coachT</string>
+				<string>com.1010.firmabs</string>
 				<key>bundle-version</key>
-				<string>1.0</string>
+				<string>3.0.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
